@@ -7,5 +7,5 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-*.png
+*.pdf
 .DS_Store
